@@ -6,7 +6,10 @@
   font-family: montserrat medium;
   src: url(montserrat/Montserrat-Medium.otf) ;
 }
-
+@font-face {
+  font-family: montserrat semibold;
+  src: url(montserrat/Montserrat-SemiBold.otf) ;
+}
 /* general rules */
 html{
   font-family: 'Montserrat', sans-serif;
