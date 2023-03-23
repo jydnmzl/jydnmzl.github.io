@@ -44,9 +44,7 @@ p {
   line-height: 30px;
   letter-spacing: 1px;
 }
-nav {
-  font-family: 'Montserrat', sans-serif;
-}
+
 /* list styles */
 
 ul {
@@ -78,7 +76,9 @@ li a:hover {
 a {
   text-decoration: none;
 }
-
+#navbtns{
+  font-family: Montserrat;
+}
 /* class styles */
 
 .heading {
