@@ -44,6 +44,9 @@ p {
   line-height: 30px;
   letter-spacing: 1px;
 }
+a {
+  font-family: Montserrat semibold;
+}
 
 /* list styles */
 
