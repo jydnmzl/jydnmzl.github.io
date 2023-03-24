@@ -612,3 +612,8 @@ a.active,a:hover{
     display: none;
   }
 }
+@media (max-width: 450px){
+  label.logo{
+    font-size: 28px;
+  }
+}
