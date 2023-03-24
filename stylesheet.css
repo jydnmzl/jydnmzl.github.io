@@ -105,7 +105,9 @@
     vertical-align: middle;
     background-color: #17171D;
   }
-  
+    .imgcontainer h2{
+    font-weight: bold;
+  }
   
   .imgcontainer img {
     vertical-align: middle;
